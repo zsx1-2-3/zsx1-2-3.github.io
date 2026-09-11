@@ -23,7 +23,7 @@ repository               : "zsx1-2-3/zsx1-2-3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "123456.png"
   name             : "周山翔"
   pronouns         : # example: "she/her"  
   bio              : "福州大学数据科学与大数据技术学生"
